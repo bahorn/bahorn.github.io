@@ -26,6 +26,7 @@ The project was the overall winner of this Hackathon.
 * <a href="https://devpost.com/software/goose-v-velociraptors">Devpost</a>
 * <a href="https://github.com/bahorn/AstonHack2017">Github</a>
 * <a href="https://www.element14.com/community/docs/DOC-88127/l/astonhack-2017-24h-hackathon-roundup">Mentioned here</a>
+* <a href="https://twitter.com/MLHacks/status/929744232100847616">Demo</a>
 
 ### Hand Gestures support for Chrome (BrumHack 6.0)
 
