@@ -2,9 +2,9 @@
 
 ## About
 
-Programmer. Writes in C/Python mainly. Knows C++, JS and Rust.
+Programmer. Prefers to program in C/Python. Knows C++, Javascript and Rust.
 
-I Co-founded my University's Hackathon Society and am currently the
+I co-founded my University's Hackathon Society and am currently the
 President of it.
 
 ## Contact
@@ -18,22 +18,23 @@ President of it.
 
 ### Goose V Velociraptors (AstonHack 2017 Winner)
 
-I wrote a game for the <a href="https://en.wikipedia.org/wiki/Vectrex">Vectrex</a>
-in Assembly for the Motorola 6809.
+I wrote a dinosaur themed game for the <a href="https://en.wikipedia.org/wiki/Vectrex">Vectrex</a>.
+Written in Assembly for the 6809 microprocessor.
 
-I was the overall winner of this Hackathon.
+The project was the overall winner of this Hackathon.
 
 * <a href="https://devpost.com/software/goose-v-velociraptors">Devpost</a>
 * <a href="https://github.com/bahorn/AstonHack2017">Github</a>
+* <a href="https://www.element14.com/community/docs/DOC-88127/l/astonhack-2017-24h-hackathon-roundup">Mentioned here</a>
 
 ### Hand Gestures support for Chrome (BrumHack 6.0)
 
-Me and C Parker wrote a Chrome addon to allow Google Chrome to be controlled
-with Hand Gestures.
+Me and <a href="https://parker57.github.io/">C Parker</a> wrote a Chrome addon
+to allow Google Chrome to be controlled with Hand Gestures.
 
 * <a href="https://github.com/bahorn/Brumhack60">Github</a>
 
-### Investigation updates for Victims of Crimes. (Hack The Police 2017)
+### Investigation updates for victims of crimes (Hack The Police 2017)
 
 I worked with <a href="http://www.william-iehl.com/">W Iehl</a> to implement a
 prototype of a system to help provide victims of crimes updates on the
