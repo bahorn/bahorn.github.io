@@ -43,3 +43,9 @@ investigation to try and give them police more time to focus on other tasks.
 
 * <a href="https://github.com/fANZYo/policingHack17">Github</a>
 
+### PoC exploit for Meltdown
+
+I implemented an Proof of Concept exploit for CVE-2017-5754, based on the paper
+published <a href="https://meltdownattack.com/meltdown.pdf">here.</a>
+
+* <a href="https://gist.github.com/bahorn/6be453127911bc4f27cf145bfc0a35b8">The Exploit</a>
