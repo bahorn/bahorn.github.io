@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+        <title>{{title}}</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hack/0.8.0/hack.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hack/0.8.0/dark-grey.css">
+        <style>
+        body {
+            max-width: 640px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        </style>
+    </head>
+    <body class="hack">
+        <div class="main container">
+            <article class="markdown-body">
+                {{~> content}}
+            </article>
+        </div>
+    </body>
+</html>
