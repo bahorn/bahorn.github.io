@@ -1,10 +1,6 @@
 # B Horn
 
-## About
-
 Programmer. Prefers to program in C/Python. Knows C++, Javascript and Rust.
-
-Interested in Computer Security and Machine Learning.
 
 I co-founded my <a href="https://www.cusu.org/society/hackathon/">University's
 Hackathon Society</a> and am currently the President of it.
