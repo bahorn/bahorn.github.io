@@ -4,8 +4,14 @@
 
 Programmer. Prefers to program in C/Python. Knows C++, Javascript and Rust.
 
-I co-founded my University's Hackathon Society and am currently the
-President of it.
+Interested in Computer Security and Machine Learning.
+
+I co-founded my <a href="https://www.cusu.org/society/hackathon/">University's
+Hackathon Society</a> and am currently the President of it.
+
+Travelled fairly extensively (25+ different countries), including independent
+backpacking trips to the Southern Caucasus (Azerbaijan, Georgia and Armenia) and
+Bulgaria.
 
 ## Contact
 
@@ -19,7 +25,7 @@ President of it.
 ### Goose V Velociraptors (AstonHack 2017 Winner)
 
 I wrote a dinosaur themed game for the <a href="https://en.wikipedia.org/wiki/Vectrex">Vectrex</a>.
-Written in Assembly for the 6809 microprocessor.
+It is written in Assembly for the 6809 microprocessor.
 
 The project was the overall winner of this Hackathon.
 
@@ -28,7 +34,7 @@ The project was the overall winner of this Hackathon.
 * <a href="https://www.element14.com/community/docs/DOC-88127/l/astonhack-2017-24h-hackathon-roundup">Mentioned here</a>
 * <a href="https://twitter.com/MLHacks/status/929744232100847616">Demo</a>
 
-### Hand Gestures support for Chrome (BrumHack 6.0)
+### Hand Gesture support for Chrome (BrumHack 6.0)
 
 Me and <a href="https://parker57.github.io/">C Parker</a> wrote a Chrome addon
 to allow Google Chrome to be controlled with Hand Gestures.
