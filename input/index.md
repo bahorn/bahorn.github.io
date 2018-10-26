@@ -5,9 +5,9 @@ Programmer. Prefers to program in C/Python. Knows C++, Javascript and Rust.
 I co-founded my <a href="https://www.cusu.org/society/hackathon/">University's
 Hackathon Society</a> and am currently the President of it.
 
-Travelled fairly extensively (25+ different countries), including independent
-backpacking trips to the Southern Caucasus (Azerbaijan, Georgia and Armenia) and
-Bulgaria.
+Travelled fairly extensively (30+ different countries), including backpacking
+though Central Asia (Kazakhstan, Kyrgyzstan, Tajikistan and Uzbekistan) and the
+Southern Caucasus (Armenia, Azerbaijan and Georgia).
 
 ## Contact
 
